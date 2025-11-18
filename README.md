@@ -32,7 +32,7 @@ Follow these steps to run the project locally (works on Windows, macOS and Linux
 1. Clone the repository and change into the project folder:
 
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/abimoussagnes/Meetups-App.git
 cd meetups-test
 ```
 
